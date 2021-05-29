@@ -1,0 +1,43 @@
+body{
+    background-image: url("imagenes/fondo1.jpg");
+    padding: 0;
+    margin: 0;
+}
+h1{
+    font-size: 3em;
+    font-family: sans-serif;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+.forma {
+    width: 60%;
+    height: 100%;
+    padding: 30px;
+    margin: 10px;
+    font-size: 20px;
+    background-color: white;
+    text-align: justify;
+    display: inline-block;
+    outline: 3px double #fd8;
+    position: relative;
+    left: 30%;
+}
+.forma img{
+    float: right;
+    width: 50%;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 7px 5px black;
+    }
+    h2{
+        text-align: center;}
+        .forma .edificio2 img{
+            float:none;
+           width: 70%;
+            margin: 10px;
+            border: solid black;
+            border-radius: 10px;
+            box-shadow: 7px 5px black;
+        position: relative;
+        left: 150px;}

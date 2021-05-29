@@ -1,0 +1,125 @@
+body{
+    background-image: url("imagenes/fondo.jpg");
+    padding: 0;
+    margin: 0;
+
+}
+.menu{ 
+    background-color: #fd8;
+    position: sticky;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1;  
+}
+b{
+    display: inline-block;
+    outline: 5px double black;
+    margin: 5px;
+}
+b:hover{
+    border-radius: 50px;
+    display: inline-block;
+    background-color: black;
+    color: #fd8;
+    outline: 3px double #fd8;
+    padding: 2px 15px;
+    position: relative;
+    margin: 10px;
+}
+img{
+    width: 50%;
+    height: 50%;
+    position: relative;
+    top:10px;
+    left: 25%;
+}
+h2{
+    color:#fd8;
+    text-align: center;
+    background-color: black;
+    font-size: 250% ;
+    outline: 3px double #fd8;
+    padding: 10px;
+    position: relative;
+    top: 10px;
+}
+h3{
+    
+    display: inline-block;
+    color: black;
+    outline: 3px double #fd8;
+    padding: 2px 25px;
+    position: relative;
+    top: 20px;
+    right: 10%;
+  }
+  h1{ 
+      
+    color:#fd8;
+    text-align: center;
+    background-color: black;
+    font-size: 250% ;
+    outline: 3px double #fd8;
+    padding: 10px;
+    position: relative;
+    top: 10px; 
+  }
+
+
+/*
+.imagen img{  
+    width: 50%;
+    height: 45%;
+    position: relative;
+    top:150px;
+    left: 32%;
+}
+h1{
+    font-size: 5em;
+    font-family: Georgia;
+    background-color: black;
+    color:#fd8;
+    text-align: center;
+    position: relative;
+    top: 9%;
+}
+h3{
+    color: black;
+    text-align: center;
+    position: relative;
+    top: 20%;
+    left: 50%;
+    display:inline-block;
+    outline: 3px double #fd8;
+    padding: 2px 25px;
+}
+h2{
+    font-size: 20px;
+    font-family:Times;
+    position: relative;
+    top:120px;
+    right: -100px;
+}
+/*.titulo-h2{
+    
+    display: inline;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-right: 40px;
+    background-color: blue;
+    color: red;
+    border-radius: 10px;
+    box-shadow: 0px 5px 10px 0px   white;
+    text-shadow: 10px 10px 5px #fd8;
+    transform: rotate(-45deg);
+    outline: 10px solid blue;
+    
+}
+p{
+   
+    background-color: rebeccapurple;
+    margin: 50px;
+}*/

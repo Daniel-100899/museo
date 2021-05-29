@@ -1,0 +1,41 @@
+body{
+    background-image: url("imagenes/fondo3.jpg");
+    padding: 0;
+    margin: 0;
+}
+h1{ outline: 3px double #ff8 ;
+    font-size: 3em;
+    font-family: sans-serif;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+
+.forma{
+    border-radius: 10px;
+    width: 60%;
+    padding: 70px;
+    margin:30px;
+    background-color: white ;  
+    display: inline-block;
+    outline: 3px double #fd8;
+    position: relative;
+    left: 20%;}
+    .forma img{
+width: 40%;
+height: 50%;
+margin: 10%;
+    }
+
+h2:hover{
+    color: black;
+    width: 500px;
+    height: 100%;
+    font-family: cursive;
+    position: relative;
+    top: 20%;}
+
+ 
+    
+  
+    
